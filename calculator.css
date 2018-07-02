@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    margin-top: 50px;
+    font-family: Lobster;
+}
+button, input{
+    margin: 1px;
+}
+button{
+    background-color: pink;
+    border-radius: 5px;
+}
+input{
+    width: 50px;
+}
